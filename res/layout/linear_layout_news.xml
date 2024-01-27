@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+         >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/newheadline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#C70039"
+        android:fontFamily=" roboto"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:text="@string/news_topic"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_weight="0.30"
+        android:contentDescription="@string/desc"
+        android:src="@raw/news" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="305dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/news_content"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/readmore"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="-20dp"
+        android:background="#00A9FF"
+        android:padding="2dp"
+        android:text="@string/read_more"
+        android:textColor="#fff"
+        android:textSize="12sp" />
+
+  
+
+</LinearLayout>
+</ScrollView>

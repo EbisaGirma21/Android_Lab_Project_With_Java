@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewsBeat</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!--Some String  -->
+    <string name="username">Username</string>
+     <string name="password">Password</string>
+     <string name="registration">Registration Form</string>
+     <string name="term">Accept terms and Condition?</string>
+     <string name="male">Male</string>
+     <string name="female">Female</string>
+     <string name="subscribe">Subscribe</string>
+      <string name="unsubscribe">Unsubscribe</string>
+     
+      <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="login">Login</string>
+    <string name="welcome_to">Welcome to NewsBeat</string>
+        <string name="desc">Welcome to NewsBeat</string>
+    
+    <string name="remember_me">Remember Me</string>
+       <string name="forget">Forget</string>
+         <string name="sign_up">signup </string>
+         <string name="activity_two">Activity Two</string>
+<string name="contact">Contact Information</string>
+<string name="news">News</string>
+<string name="music">Music</string>
+<string name="first_name">First name:</string>
+<string name="name">Isayas</string>
+<string name="last_name">Last Name:</string>
+<string name="father_Name">Melkamu</string>
+<string name="phone_number">Phone Number</string>
+<string name="passcode">Passcode</string>
+<string name="phone">+251946528712</string>
+<string name="email_address">Email Address:</string>
+<string name="email">isaias7@gmail.com</string>
+<string name="news_topic">Breaking News</string>
+<string name="news_content"> With updates from Rushdi Abualouf in Gaza; Jeremy Bowen, Anna Foster and Lucy Williamson in southern Israel; Yolande Knell, Paul Adams,....</string>
+<string name="read_more">Read more</string>
+<string name="singer">Minase Sisay</string>
+<string name="play">Play</string>
+<string name="your_location">Wolkite</string>
+<string name="your_temp">-6 C</string>
+<string name="city1">Addis Ababa</string>
+<string name="city2">Adama</string>
+<string name="city3">Bahirdar</string>
+<string name="city4">Hawasa</string>
+<string name="someone">Someone</string>
+<string name="send">Send</string>
+<string name="submit">Submit</string>
+<string name="message">Implement a chat application with chat 
+messages, message input field</string>
+ <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+      <string name="good">Good Morning</string> 
+    <string name="goodsp">Buenos días</string> 
+    
+ <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_afternoon_es">Buenas tardes</string> 
+    
+    <string name="good_evening">Good Evening</string>
+    <string name="good_evening_es">Buenas noches</string>
+    
+<string name="thank_you">Thank You</string>
+<string name="thank_you_es">Gracias</string>
+    
+<string name="hello">Hello</string>
+<string name="hello_es">Hola</string> 
+<string name="flight_number">Flight Number</string> 
+<string name="destination">Destination</string> 
+<string name="departure_time">Departure Time</string> 
+<string name="departure_time1">5:00 AM</string> 
+<string name="one">1</string>
+<string name="two">2</string> 
+<string name="three">3</string> 
+<string name="four">4</string>                                                                                
+                                   
+ <string name="team_name">Team Name</string> 
+<string name="scores">Scores</string> 
+ <string name="match_dates">Match Date</string> 
+ <string name="match_date1">November 6, 2023</string> 
+<string name="acid">ACiD</string> 
+<string name="scorpion">Scorpion</string> 
+<string name="eagles">Eagles</string> 
+
+<string name="search">Search</string>
+<string name="save">Confirm</string>
+<string name="edit">Edit</string>
+
+<string name='album_title'>አንተ ማለት</string>
+<string name='stop'>Stop</string>
+
+
+ <string-array name="listOfUIelements">
+        <item>Isayas Melkamu</item>
+        <item>Eyader Tsehayu</item>
+        
+    </string-array>
+             
+    
+    
+<!--  THis is My String array  -->
+     <string-array name="datasrc">
+        <item>Linear Layout</item>
+        <item>Relative Layout</item>
+        <item >Table layout</item>
+        <item >Grid Layout</item>
+        <item >Frame Layout</item>
+        <item >List View</item>
+        <item >ScrollView</item>
+       
+
+           
+        
+    </string-array>
+   
+
+</resources>
