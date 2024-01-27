@@ -2,7 +2,7 @@ Certainly! Below is a sample README file for your Java and SQLite Database lab p
 
 ---
 
-# Lab Project - Java and SQLite Database
+# Android Lab Project - Java and SQLite Database
 
 ## Overview
 
